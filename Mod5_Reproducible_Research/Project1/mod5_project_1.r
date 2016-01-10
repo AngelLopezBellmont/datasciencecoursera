@@ -1,5 +1,7 @@
 ## Module-5 Project-1
 
+echo = TRUE
+
 setwd("C:/2015.07.31_Angel/00Angel/SoftwareProgramsCursosIT/Coursera/2016.01.06-Mod5_ReproducibleResearch/Mod5_Proj_1")
 
 
