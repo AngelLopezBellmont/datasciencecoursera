@@ -1,4 +1,4 @@
-1 Module-5-Project-1
+#Module-5-Project-1
 Coursera Module 5: Reproducible Research
 
 - What is mean total number of steps taken per day?:
